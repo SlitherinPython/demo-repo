@@ -1,7 +1,6 @@
-# Demo
+# How to use git. 
 
-Some plain text. 
-
-## Subheader
-
-Some more text.
+git status
+git add --all
+git commit -m 'Whatever message you like'
+git push origin (master or origin)
